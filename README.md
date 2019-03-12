@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/DyegoMaas/react-app-docker-workflow.svg?branch=master)](https://travis-ci.org/DyegoMaas/react-app-docker-workflow)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
